@@ -3,7 +3,7 @@ import flet as ft
 
 def main(page: ft.Page):
     page.title = "Meu Primeiro App Flet" #Define o título da janela
-    page.bgcolor = "blue"
+    page.bgcolor = "red"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     
