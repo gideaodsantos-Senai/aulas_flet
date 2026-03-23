@@ -2,7 +2,7 @@ import flet as ft
 
 
 def main(page: ft.Page):
-
+    
     def mostrar_mensagem(e):
         page.add(
             ft.Text("Pow! Pow!")
