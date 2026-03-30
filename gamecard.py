@@ -34,7 +34,7 @@ def main(page: ft.Page):
                 bgcolor="blue600", padding=10, border_radius=8, expand=1
             ),
             ft.Container(
-                content=ft.Text("XP: 4575425", text_align=ft.TextAlign.CENTER, weight="bold"),
+                content=ft.Text("XP: 560", text_align=ft.TextAlign.CENTER, weight="bold"),
                 bgcolor="amber600", padding=10, border_radius=8, expand=1
             ),
         ],
